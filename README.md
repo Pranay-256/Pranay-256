@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙎My name is Pranay Jha and I'm an aspiring Data Analyst and Data Scientist<br>📊 Passionate about transforming raw data into meaningful insights that drive informed decision-making<br>🚀 Continuously strengthening analytical thinking and hands-on experience with real-world data<br>🌱 Actively learning new tools, techniques, and approaches to unlock the full potential of data<br>🤝I'm always open for collaborating with people to build meaningful and impactful projects<br>
+🙎My name is Pranay Jha and I'm an aspiring Data Analyst and Data Scientist<br>📊 Passionate about transforming raw data into meaningful insights that drive informed decision-making<br>🚀 Continuously strengthening analytical thinking and hands-on experience with real-world data<br>🌱 Actively learning new tools, techniques, and approaches to unlock the full potential of data<br>🤝Open to collaborating on impactful and data-driven projects<br>
 
 
 ## 🌐 Socials:
