@@ -35,22 +35,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🚗 Road Accident Data Analysis
-- Analyzed accident trends based on weather, location, and time
-- Built interactive dashboards for insights
-- Identified key factors affecting accident severity
-
-### 📊 Sales Data Analysis
-- Cleaned and transformed raw sales data
-- Created visual reports to track performance
-- Derived actionable business insights
-
-👉 *More projects coming soon...*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
