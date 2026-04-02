@@ -8,11 +8,72 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranay-256&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-256&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 What I’m Currently Doing
+
+- 🔍 Working on **real-world data analysis projects** to build a strong portfolio  
+- 📈 Exploring **EDA, data cleaning, and visualization techniques**  
+- 🧠 Learning **advanced analytics & business problem solving**  
+- 🚀 Building **interactive dashboards using Streamlit & Power BI**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranay-256&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 My Skillset
+
+### 📌 Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Statistical Analysis
+- Data Visualization
+
+### ⚙️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL)
+- Excel (Pivot Tables, Dashboards)
+- Power BI / Streamlit
+
+---
+
+## 📁 Featured Projects
+
+### 🚗 Road Accident Data Analysis
+- Analyzed accident trends based on weather, location, and time
+- Built interactive dashboards for insights
+- Identified key factors affecting accident severity
+
+### 📊 Sales Data Analysis
+- Cleaned and transformed raw sales data
+- Created visual reports to track performance
+- Derived actionable business insights
+
+👉 *More projects coming soon...*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+- 📌 Become a **Data Analyst / Data Scientist**
+- 📌 Work on **real-world impactful datasets**
+- 📌 Contribute to **open-source projects**
+- 📌 Build scalable **data-driven applications**
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open for **internships & collaborations**
+- 📬 Reach me via LinkedIn or Email (above 👆)
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
